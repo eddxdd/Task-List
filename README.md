@@ -1,3 +1,1 @@
-# Task-List
-
-https://eddxdd.github.io/Task-List/
+https://eddxdd.github.io/js-task-list/
